@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\HumansVZombie\Assets\Scripts\vehicleMovement.cs">
+    <Files>
+      <File FileName="..\HumansVZombie\Assets\Scripts\vehicleMovement.cs" Line="87" Column="30" />
+      <File FileName="..\HumansVZombie\Assets\Scripts\Zombie.cs" Line="44" Column="12" />
+      <File FileName="..\HumansVZombie\Assets\Scripts\Human.cs" Line="63" Column="21" />
+      <File FileName="..\HumansVZombie\Assets\Scripts\AgentManager.cs" Line="55" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
